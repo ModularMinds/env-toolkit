@@ -1,0 +1,13 @@
+{
+  "name": "env-toolkit",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/ModularMinds/env-toolkit.git",
+  "author": "Tanmay Vaij <tanmayvaij22@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.8",
+    "nodemon": "^3.1.4",
+    "typescript": "^5.5.2"
+  }
+}
